@@ -77,7 +77,7 @@
 
         <div class="text-center"><a href="https://renotifier.com"><img src="https://renotifier.com/static/img/logo_blue_160px.png" style="width:160px; margin-top:15px;"></a></div>
 
-        <h1 class="text-center">Capture 2 email addresses from the same user using 1 form!</h1>
+        <h1 class="text-center">Capture 2 email addresses from<br> the same user using 1 form!</h1>
         </div>
         </div>
 
@@ -86,7 +86,7 @@
         <br><br>
         <p class="text-center">With a smart form you can use one single form to:
         <ol>
-          <li>captrue an email address and other information the user inputs manually into the form</li>
+          <li>capture an email address and other information the user inputs manually into the form</li>
           <li>capture information from the user's Facebook profile (i.e. email address, first name, last name, gender, etc.)</li>
           <li>get permission to send Facebook Notifications to the user using <a href="https://renotifier.com">ReNotifier.com</a></li>
         </ol></p>
